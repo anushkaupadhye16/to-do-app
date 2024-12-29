@@ -1,0 +1,19 @@
+
+.component{
+    margin: 20px;
+    padding: 20px;
+    
+}
+.footer{
+    text-align: center;
+    padding: 20px;
+}
+.button{
+    background-color: orangered;
+    color: white;
+    border: 2px solid orangered;
+}
+.copywright{
+    min-width: 100%;
+    
+}
